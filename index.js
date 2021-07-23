@@ -1,4 +1,4 @@
-var winner=["susant","susa","sushi","kalia"];
+var winner=["Susant","Susa","Sushi","Kalia"];
 function name(player1,player2){
   var player11=player1.slice(0,1).toUpperCase()+player1.slice(1,player1.length).toLowerCase();
   var player22=player2.slice(0,1).toUpperCase()+player2.slice(1,player2.length).toLowerCase();
